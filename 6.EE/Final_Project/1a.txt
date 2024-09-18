@@ -1,0 +1,5 @@
+*m=2.5
+m->type=VALUE
+*a=9.8
+a->type=VALUE
+f=m*a=24.5

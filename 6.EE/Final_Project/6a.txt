@@ -1,0 +1,4 @@
+Test: substitute char with Value via Handle
+t1 = (1+x)
+Substitute x with -5.0
+t1 = (1+(-5)) = -4  or  t1 = (1+-5) = -4

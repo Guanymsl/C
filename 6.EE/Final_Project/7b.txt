@@ -1,0 +1,6 @@
+(1) ntu = ((n*t)*u)
+(2) ee = (e+e)
+(3) ntuee = (((n*t)*u)+(e+e))
+After ntuee.subst('n', ee):
+(4) ntu = (((e+e)*t)*u)
+(5) ntuee = ((((e+e)*t)*u)+(e+e))

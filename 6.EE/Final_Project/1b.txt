@@ -1,0 +1,7 @@
+*m=3.2
+m->type=VALUE
+*x=4
+x->type=VALUE
+*b=5.4
+b->type=VALUE
+y=m*x+b=18.2

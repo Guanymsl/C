@@ -1,0 +1,9 @@
+Handle h1: a
+Handle h2: 3.14
+
+Eval h1: a is not defined.
+0
+Eval h2: 3.14
+
+Type h1: SYMBOL
+Type h2: VALUE

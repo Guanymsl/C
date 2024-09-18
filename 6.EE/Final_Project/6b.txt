@@ -1,0 +1,4 @@
+Test: substitute char with Symbol via Handle
+t2 = (p*2)
+Substitute p with q
+t2 = (q*2)

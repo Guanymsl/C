@@ -1,0 +1,10 @@
+Copy h1 to h3
+Handle h3: x
+Eval h3: x is not defined.
+0
+Type h3: SYMBOL
+
+Copy h2 to h3
+Handle h3: 2.94
+Eval h3: 2.94
+Type h3: VALUE

@@ -1,0 +1,17 @@
+(1) ntu = ((n*t)*u)
+(2) e = e
+(3) ntu.h.p->use = 1
+(4) n.h.p->use = 2
+(5) t.h.p->use = 2
+(6) u.h.p->use = 3
+(7) e.h.p->use = 1
+After u.subst('u', e):
+(8) ntu = ((n*t)*u)
+(9) u = e
+(10) u.h.p->use = 2
+(11) u2.h.p->use = 2
+(12) e.h.p->use = 2
+After ntu.subst('n', e):
+(13) ntu = ((e*t)*u)
+(14) n.h.p->use = 1
+(15) e.h.p->use = 3

@@ -1,0 +1,4 @@
+f=m*a
+s1->type=SYMBOL
+s2->type=SYMBOL
+s3->type=SYMBOL

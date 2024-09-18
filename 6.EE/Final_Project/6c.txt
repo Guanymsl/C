@@ -1,0 +1,5 @@
+Test: substitute char with Term via Handle
+t3 = (a+1004)
+Term in h10 = (a*b)
+Substitute a with t4
+t3 = ((a*b)+1004)

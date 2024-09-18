@@ -1,0 +1,7 @@
+y=m*x+b
+s1->type=SYMBOL
+s2->type=SYMBOL
+s3->type=SYMBOL
+s4->type=SYMBOL
+b is not defined.
+0
